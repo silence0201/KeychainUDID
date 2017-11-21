@@ -2,7 +2,7 @@
 //  KeychainUDID.h
 //  Demo
 //
-//  Created by 杨晴贺 on 2017/11/21.
+//  Created by Silence on 2017/11/21.
 //  Copyright © 2017年 Silence. All rights reserved.
 //  使用IDFA+Keychain模拟UDID的相关功能,如果没有开启IDFA用UUID代替
 
